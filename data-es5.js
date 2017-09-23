@@ -1176,6 +1176,7 @@ exports.tests = [
       ejs: true,
       android4_4: true,
       duktape1_0: false,
+      duktape1_2: true,
       duktape2_0: true,
     }
   },

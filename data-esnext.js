@@ -1848,7 +1848,7 @@ exports.tests = [
     jxa: null,
     node0_10: null,
     duktape1_0: false,
-    duktape2_0: null,
+    duktape2_0: false,
     duktape2_2: false,
     android1_5: null,
     ios4: null,
