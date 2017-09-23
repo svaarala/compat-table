@@ -1532,6 +1532,7 @@ exports.tests = [
           webkit: true,
           android4_0: true,
           duktape2_0: false,
+          duktape2_2: true,
         }
       },
       {
@@ -1557,6 +1558,7 @@ exports.tests = [
           safaritp: true,
           webkit: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1586,6 +1588,7 @@ exports.tests = [
           android4_0: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1614,6 +1617,7 @@ exports.tests = [
           webkit: true,
           android4_0: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1639,6 +1643,7 @@ exports.tests = [
           safaritp: true,
           webkit: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1670,6 +1675,7 @@ exports.tests = [
           android4_0: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1700,6 +1706,7 @@ exports.tests = [
           android4_0: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1730,6 +1737,7 @@ exports.tests = [
           webkit: true,
           android4_0: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1755,6 +1763,7 @@ exports.tests = [
           safaritp: true,
           webkit: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1779,6 +1788,7 @@ exports.tests = [
           webkit: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1810,6 +1820,7 @@ exports.tests = [
           android4_0: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1840,6 +1851,7 @@ exports.tests = [
           android4_0: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1870,6 +1882,7 @@ exports.tests = [
           webkit: true,
           android4_0: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1895,6 +1908,7 @@ exports.tests = [
           safaritp: true,
           webkit: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       },
       {
@@ -1919,6 +1933,7 @@ exports.tests = [
           webkit: true,
           ios5_1: true,
           duktape2_0: false,
+          duktape2_2: true,
         },
       }
     ]

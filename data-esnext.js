@@ -1758,6 +1758,7 @@ exports.tests = [
     jxa: null,
     node0_10: null,
     duktape2_0: null,
+    duktape2_2: false,
     android1_5: null,
     ios4: null,
   },
@@ -2281,6 +2282,7 @@ exports.tests = [
   res : {
     babel: babel.corejs,
     typescript: typescript.corejs,
+    duktape2_2: false,
   }
 },
 {
@@ -2298,6 +2300,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.DEG_PER_RAD',
@@ -2307,6 +2310,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.degrees',
@@ -2317,6 +2321,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.fscale',
@@ -2326,6 +2331,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.RAD_PER_DEG',
@@ -2335,6 +2341,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.radians',
@@ -2345,6 +2352,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }, {
     name: 'Math.scale',
@@ -2354,6 +2362,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape2_2: false,
     },
   }]
 },
@@ -2371,6 +2380,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2381,6 +2391,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2393,6 +2404,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2410,6 +2422,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2427,6 +2440,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2444,6 +2458,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2461,6 +2476,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     }
   ]
@@ -2510,6 +2526,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape2_2: false,
       }
     },
     {
@@ -2543,6 +2560,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape2_2: false,
       }
     },
     {
@@ -2578,6 +2596,7 @@ exports.tests = [
         chrome61: chrome.promise,
         chrome63: chrome.harmony,
         webkit: true,
+        duktape2_2: false,
       }
     }
   ]
@@ -2596,6 +2615,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2608,6 +2628,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     }
   ]
@@ -2629,6 +2650,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2644,6 +2666,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2657,6 +2680,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2670,6 +2694,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2683,6 +2708,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2698,6 +2724,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2711,6 +2738,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
     {
@@ -2724,6 +2752,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape2_2: false,
       }
     },
   ]
@@ -2748,7 +2777,8 @@ exports.tests = [
       res: {
         safari1: false,
         safaritp: true,
-        webkit: true
+        webkit: true,
+        duktape2_2: false,
       },
     },
     {
@@ -2766,7 +2796,8 @@ exports.tests = [
       res: {
         safari1: false,
         safaritp: true,
-        webkit: true
+        webkit: true,
+        duktape2_2: false,
       },
     },
     {
@@ -2789,7 +2820,8 @@ exports.tests = [
       res: {
         safari1: false,
         safaritp: true,
-        webkit: true
+        webkit: true,
+        duktape2_2: false,
       }
     }
   ]
