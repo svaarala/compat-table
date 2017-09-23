@@ -28,6 +28,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -51,6 +52,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -74,6 +76,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -97,6 +100,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -124,6 +128,7 @@ exports.tests = [
       rhino1_7: false,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   }],
@@ -153,6 +158,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -189,6 +195,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -213,6 +220,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -239,6 +247,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -266,6 +275,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -290,6 +300,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -314,6 +325,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -338,6 +350,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -362,6 +375,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -386,6 +400,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -410,6 +425,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -442,6 +458,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -468,6 +485,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
     separator: 'after'
@@ -499,6 +517,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -522,6 +541,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -545,6 +565,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -568,6 +589,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -591,6 +613,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -614,6 +637,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -637,6 +661,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -660,6 +685,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -684,6 +710,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -708,6 +735,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   }, {
@@ -755,6 +783,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: false,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -786,6 +815,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   }],
@@ -813,6 +843,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -839,6 +870,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
     separator: 'after'
@@ -869,6 +901,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: false,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -892,6 +925,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -927,6 +961,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_0: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   }]
@@ -956,6 +991,7 @@ exports.tests = [
     ejs: true,
     ios7: true,
     android4_0: true,
+    duktape1_0: true,
     duktape2_0: true,
   },
 },
@@ -987,6 +1023,7 @@ exports.tests = [
     ejs: true,
     ios7: true,
     android4_0: true,
+    duktape1_0: true,
     duktape2_0: true,
   },
   separator: 'after'
@@ -1021,6 +1058,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: false,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -1050,6 +1088,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: false,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -1079,6 +1118,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: false,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   }]
@@ -1109,6 +1149,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1134,6 +1175,7 @@ exports.tests = [
       rhino1_7: false,
       ejs: true,
       android4_4: true,
+      duktape1_0: false,
       duktape2_0: true,
     }
   },
@@ -1160,6 +1202,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1187,6 +1230,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1216,6 +1260,7 @@ exports.tests = [
       rhino1_7: true,
       ejs: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -1242,6 +1287,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     }
   },
@@ -1274,6 +1320,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: false,
       duktape2_0: false,
     }
   },
@@ -1303,6 +1350,7 @@ exports.tests = [
       rhino1_7: null,
       ejs: null,
       android4_0: null,
+      duktape1_0: true,
       duktape2_0: true,
     },
   }]
@@ -1334,6 +1382,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1359,6 +1408,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1382,6 +1432,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1420,6 +1471,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1444,6 +1496,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1466,6 +1519,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1492,6 +1546,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1518,6 +1573,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1546,6 +1602,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1573,6 +1630,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1598,6 +1656,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1622,6 +1681,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1650,6 +1710,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1672,6 +1733,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1694,6 +1756,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1716,6 +1779,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1738,6 +1802,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1760,6 +1825,7 @@ exports.tests = [
       ejs: true,
       ios7: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     },
   },
@@ -1787,6 +1853,7 @@ exports.tests = [
       ios8: true,
       ios9: true,
       android4_1: true,
+      duktape1_0: true,
       duktape2_0: true,
     }
   }]

@@ -33,6 +33,7 @@ exports.tests = [
       res: {
         babel: true,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -45,6 +46,7 @@ exports.tests = [
       res: {
         babel: true,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       },
     },
@@ -64,6 +66,7 @@ exports.tests = [
   res: {
     babel: true,
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -83,6 +86,7 @@ exports.tests = [
   */},
   res: {
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -113,6 +117,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -129,6 +134,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -145,6 +151,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -161,6 +168,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -177,6 +185,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -193,6 +202,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -209,6 +219,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -225,6 +236,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -241,6 +253,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -257,6 +270,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -273,6 +287,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -291,6 +306,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -309,6 +325,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -327,6 +344,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -345,6 +363,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -363,6 +382,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -381,6 +401,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -399,6 +420,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -417,6 +439,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -435,6 +458,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -453,6 +477,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -471,6 +496,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -489,6 +515,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -507,6 +534,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -525,6 +553,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -543,6 +572,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -561,6 +591,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -578,6 +609,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -595,6 +627,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -612,6 +645,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -630,6 +664,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -649,6 +684,7 @@ exports.tests = [
         chrome58: false,
         edge14: edge.experimental,
         edge15: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -667,6 +703,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -686,6 +723,7 @@ exports.tests = [
         chrome58: false,
         edge14: edge.experimental,
         edge15: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -704,6 +742,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -722,6 +761,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -740,6 +780,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -758,6 +799,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -776,6 +818,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -794,6 +837,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -812,6 +856,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -830,6 +875,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -848,6 +894,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -866,6 +913,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -884,6 +932,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -902,6 +951,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -920,6 +970,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -938,6 +989,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -955,6 +1007,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -972,6 +1025,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -989,6 +1043,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1007,6 +1062,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1025,6 +1081,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1043,6 +1100,7 @@ exports.tests = [
         firefox48: firefox.nightly,
         chrome37: chrome.simd,
         chrome58: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1061,6 +1119,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1079,6 +1138,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1095,6 +1155,7 @@ exports.tests = [
         chrome37: chrome.simd,
         chrome58: false,
         edge14: edge.experimental,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1124,6 +1185,7 @@ exports.tests = [
         babel: {val: false, note_id: "regenerator-decorators-legacy", note_html: "Babel 6 still has no official support decorators, but you can use <a href='https://github.com/loganfsmyth/regenerator-plugin-transform-decorators-legacy'>this plugin</a>."},
         typescript: true,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1141,6 +1203,7 @@ exports.tests = [
       });
   */},
   res: {
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1167,6 +1230,7 @@ exports.tests = [
         safari11: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1188,6 +1252,7 @@ exports.tests = [
         safari11: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1206,6 +1271,7 @@ exports.tests = [
     typescript: typescript.corejs,
     es7shim: true,
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1245,6 +1311,7 @@ exports.tests = [
         es7shim: true,
         android4_0: true,
         ios5_1: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1278,6 +1345,7 @@ exports.tests = [
         es7shim: true,
         android4_0: true,
         ios5_1: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1290,6 +1358,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1302,6 +1371,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1346,6 +1416,7 @@ exports.tests = [
       node6_5: true,
       node7: true,
       node7_6: true,
+      duktape1_0: false,
       duktape2_0: false,
       duktape2_1: true,
     }
@@ -1388,6 +1459,7 @@ exports.tests = [
       node6_5: false,
       node7: false,
       node7_6: false,
+      duktape1_0: false,
       duktape2_0: false,
       duktape2_1: true,
     }
@@ -1408,6 +1480,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1420,6 +1493,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1432,6 +1506,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1454,6 +1529,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1467,6 +1543,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1480,6 +1557,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1492,6 +1570,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1504,6 +1583,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1531,6 +1611,7 @@ exports.tests = [
     babel: babel.corejs,
     typescript: typescript.corejs,
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1548,6 +1629,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1558,6 +1640,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1573,6 +1656,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1600,6 +1684,7 @@ exports.tests = [
   res : {
     typescript: true,
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1620,6 +1705,7 @@ exports.tests = [
   */},
   res : {
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1637,6 +1723,7 @@ exports.tests = [
   */},
   res : {
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1665,6 +1752,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1697,6 +1785,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1721,6 +1810,7 @@ exports.tests = [
     ie11: false,
     firefox2: false,
     chrome61: chrome.harmony,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1757,6 +1847,7 @@ exports.tests = [
     xs6: null,
     jxa: null,
     node0_10: null,
+    duktape1_0: false,
     duktape2_0: null,
     duktape2_2: false,
     android1_5: null,
@@ -1777,6 +1868,7 @@ exports.tests = [
     firefox2: false,
     chrome50: chrome.harmony,
     chrome62: true,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1793,6 +1885,7 @@ exports.tests = [
     ie11: false,
     firefox2: false,
     chrome59: chrome.harmony,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1811,6 +1904,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1823,6 +1917,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1843,6 +1938,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1855,6 +1951,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1867,6 +1964,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1879,6 +1977,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1891,6 +1990,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1903,6 +2003,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1915,6 +2016,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1927,6 +2029,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1939,6 +2042,7 @@ exports.tests = [
         babel: babel.corejs,
         typescript: typescript.corejs,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -1957,6 +2061,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1967,6 +2072,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1977,6 +2083,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1987,6 +2094,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -1997,6 +2105,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -2007,6 +2116,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -2017,6 +2127,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     }
@@ -2033,6 +2144,7 @@ exports.tests = [
   */},
   res: {
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -2056,6 +2168,7 @@ exports.tests = [
         tr: true,
         typescript: true,
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -2075,6 +2188,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -2091,6 +2205,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -2111,6 +2226,7 @@ exports.tests = [
     babel: babel.corejs,
     typescript: typescript.corejs,
     firefox2: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -2133,6 +2249,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       },
     },
@@ -2156,6 +2273,7 @@ exports.tests = [
       */},
       res: {
         firefox2: false,
+        duktape1_0: false,
         duktape2_0: false,
       },
     }
@@ -2178,6 +2296,7 @@ exports.tests = [
       firefox2: false,
       firefox54: true,
       chrome59: chrome.harmony,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }, {
@@ -2193,6 +2312,7 @@ exports.tests = [
       chrome50: true,
       safari10: true,
       edge13: true,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }, {
@@ -2210,6 +2330,7 @@ exports.tests = [
       chrome50: true,
       safari3_1: true,
       edge13: true,
+      duktape1_0: false,
       duktape2_0: true,
     },
   }, {
@@ -2225,6 +2346,7 @@ exports.tests = [
       chrome50: true,
       safari10: true,
       edge14: true,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }, {
@@ -2240,6 +2362,7 @@ exports.tests = [
       chrome50: true,
       safari10: true,
       edge14: true,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }, {
@@ -2252,6 +2375,7 @@ exports.tests = [
       firefox2: false,
       firefox54: true,
       chrome59: chrome.harmony,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }, {
@@ -2264,6 +2388,7 @@ exports.tests = [
       firefox2: false,
       firefox54: true,
       chrome59: chrome.harmony,
+      duktape1_0: false,
       duktape2_0: false,
     },
   }]
@@ -2282,6 +2407,7 @@ exports.tests = [
   res : {
     babel: babel.corejs,
     typescript: typescript.corejs,
+    duktape1_0: false,
     duktape2_2: false,
   }
 },
@@ -2300,6 +2426,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2310,6 +2437,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2321,6 +2449,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2331,6 +2460,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2341,6 +2471,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2352,6 +2483,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }, {
@@ -2362,6 +2494,7 @@ exports.tests = [
     res: {
       babel: babel.corejs,
       typescript: typescript.corejs,
+      duktape1_0: false,
       duktape2_2: false,
     },
   }]
@@ -2380,6 +2513,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2391,6 +2525,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2404,6 +2539,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2422,6 +2558,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2440,6 +2577,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2458,6 +2596,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2476,6 +2615,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     }
@@ -2526,6 +2666,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2560,6 +2701,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2596,6 +2738,7 @@ exports.tests = [
         chrome61: chrome.promise,
         chrome63: chrome.harmony,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       }
     }
@@ -2615,6 +2758,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2628,6 +2772,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     }
@@ -2650,6 +2795,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2666,6 +2812,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2680,6 +2827,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2694,6 +2842,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2708,6 +2857,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2724,6 +2874,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2738,6 +2889,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2752,6 +2904,7 @@ exports.tests = [
       res: {
         babel: babel.corejs,
         typescript: typescript.corejs,
+        duktape1_0: false,
         duktape2_2: false,
       }
     },
@@ -2778,6 +2931,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       },
     },
@@ -2797,6 +2951,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       },
     },
@@ -2821,6 +2976,7 @@ exports.tests = [
         safari1: false,
         safaritp: true,
         webkit: true,
+        duktape1_0: false,
         duktape2_2: false,
       }
     }

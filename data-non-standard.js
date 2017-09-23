@@ -16,6 +16,7 @@ exports.tests = [
       res: {
         firefox2: true,
         rhino1_7: true,
+        duktape1_0: false,
         duktape2_0: false,
       }
     },
@@ -38,6 +39,7 @@ exports.tests = [
         firefox2: true,
         besen: true,
         rhino1_7: true,
+        duktape1_0: false,
         duktape2_0: false,
       },
     },
@@ -49,6 +51,7 @@ exports.tests = [
       res: {
         firefox2: true,
         rhino1_7: null,
+        duktape1_0: false,
         duktape2_0: false,
       },
     },
@@ -150,6 +153,7 @@ exports.tests = [
         firefox2: true,
         besen: null,
         rhino1_7: null,
+        duktape1_0: false,
         duktape2_0: false,
       },
     },
@@ -168,6 +172,7 @@ exports.tests = [
     firefox3_5: true,
     firefox4: false,
     rhino1_7: null,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -192,6 +197,7 @@ exports.tests = [
     rhino1_7: false,
     phantom: true,
     android4_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -215,6 +221,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -240,6 +247,7 @@ exports.tests = [
     rhino1_7: true,
     phantom: true,
     android4_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -262,6 +270,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -278,6 +287,7 @@ exports.tests = [
     safaritp: false,
     webkit: false,
     opera7_5: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
 },
@@ -301,6 +311,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -323,6 +334,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -350,6 +362,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -369,6 +382,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -388,6 +402,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -414,6 +429,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -429,6 +445,7 @@ exports.tests = [
     firefox2: false,
     firefox30: true,
     opera7_5: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -450,6 +467,7 @@ exports.tests = [
     besen: true,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -472,6 +490,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -498,6 +517,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -522,6 +542,7 @@ exports.tests = [
     besen: null,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -559,6 +580,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -598,6 +620,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -647,6 +670,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
 },
@@ -671,6 +695,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -692,6 +717,7 @@ exports.tests = [
     firefox2: false,
     firefox30: true,
     opera7_5: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -720,6 +746,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -745,6 +772,7 @@ exports.tests = [
     rhino1_7: true,
     phantom: true,
     android4_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -770,6 +798,7 @@ exports.tests = [
     rhino1_7: true,
     phantom: true,
     android4_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -790,6 +819,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -812,6 +842,7 @@ exports.tests = [
     besen: null,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -832,6 +863,7 @@ exports.tests = [
     besen: null,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -846,6 +878,7 @@ exports.tests = [
     opera7_5: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -866,6 +899,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
 },
@@ -889,6 +923,7 @@ exports.tests = [
     rhino1_7: true,
     ejs: true,
     android4_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -909,6 +944,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -928,6 +964,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -947,6 +984,7 @@ exports.tests = [
     besen: true,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
 },
@@ -964,6 +1002,7 @@ exports.tests = [
     opera7_5: false,
     node0_10: true,
     android5_0: true,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
@@ -995,6 +1034,7 @@ exports.tests = [
     rhino1_7: false,
     phantom: false,
     android4_0: true,
+    duktape1_0: true,
     duktape2_0: true,
   }
 },
@@ -1016,6 +1056,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: true,
     duktape2_0: true,
   }
 },
@@ -1038,6 +1079,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   }
 },
@@ -1059,6 +1101,7 @@ exports.tests = [
     besen: false,
     rhino1_7: true,
     phantom: false,
+    duktape1_0: true,
     duktape2_0: true,
   }
 },
@@ -1079,6 +1122,7 @@ exports.tests = [
     besen: false,
     rhino1_7: false,
     phantom: false,
+    duktape1_0: false,
     duktape2_0: false,
   },
   separator: 'after'
