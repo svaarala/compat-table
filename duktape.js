@@ -78,7 +78,10 @@ function runTest(parents, test, sublevel) {
                      '}\n';
 
         fs.writeFileSync('duktest.js', script);
-        var stdout = child_process.execFileSync(dukCommand, [ 'duktest.js' ], {
+        var stdout = child_process.execFileSync(dukCommand, [
+            '-e', '+function () { if (typeof console === "undefined") { console = { log: print }; } }()',
+            'duktest.js'
+        ], {
             encoding: 'utf-8'
         });
         //console.log(stdout);
